@@ -7,10 +7,8 @@
 			"spawnoffset": "0,0,100,",
 			"descriptname": "EonDino",
 			"description": "",
-			"statbase": "2,65,250,1,",
-			"reducepointschoosen": [
-				"1,15,"
-			],
+			"statbase": "2,65,300,1,",
+			"reducepointschoosen": [],
 			"allowgender": true
 		},
 		"DS-0":
