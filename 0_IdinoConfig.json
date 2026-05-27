@@ -21,6 +21,28 @@
 			"statbase": "",
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
+		},
+		"DS-1":
+		{
+			"dinoindex": 52,
+			"dinoname": "Rhyniognatha",
+			"forpillartag": "Idino_Normal",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-2":
+		{
+			"dinoindex": 136,
+			"dinoname": "Carcharodontosaurus",
+			"forpillartag": "Idino_Normal",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
 		}
 	},
 	"Pdx-1":
