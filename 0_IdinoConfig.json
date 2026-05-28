@@ -24,8 +24,8 @@
 		},
 		"DS-1":
 		{
-			"dinoindex": 52,
-			"dinoname": "Rhyniognatha",
+			"dinoindex": 150,
+			"dinoname": "Ankylosaurus",
 			"forpillartag": "Idino_Normal",
 			"allowgendar": false,
 			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
@@ -35,8 +35,195 @@
 		},
 		"DS-2":
 		{
+			"dinoindex": 146,
+			"dinoname": "Argentavis",
+			"forpillartag": "Idino_Normal",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-3":
+		{
+			"dinoindex": 4,
+			"dinoname": "Basilosaurus",
+			"forpillartag": "Idino_Normal",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-4":
+		{
+			"dinoindex": 191,
+			"dinoname": "Basilisk",
+			"forpillartag": "Idino_Normal",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-5":
+		{
 			"dinoindex": 136,
 			"dinoname": "Carcharodontosaurus",
+			"forpillartag": "Idino_Normal",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-6":
+		{
+			"dinoindex": 174,
+			"dinoname": "Dreadnoughtus",
+			"forpillartag": "Idino_Normal",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-7":
+		{
+			"dinoindex": 201,
+			"dinoname": "Fire Wyvern",
+			"forpillartag": "Idino_Normal",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-8":
+		{
+			"dinoindex": 104,
+			"dinoname": "Giganotosaurus",
+			"forpillartag": "Idino_Normal",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-9":
+		{
+			"dinoindex": 202,
+			"dinoname": "Lightning Wyvern",
+			"forpillartag": "Idino_Normal",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-10":
+		{
+			"dinoindex": 81,
+			"dinoname": "Mosasaurus",
+			"forpillartag": "Idino_Normal",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-11":
+		{
+			"dinoindex": 203,
+			"dinoname": "Poison Wyvern",
+			"forpillartag": "Idino_Normal",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-12":
+		{
+			"dinoindex": 2,
+			"dinoname": "Rex",
+			"forpillartag": "Idino_Normal",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-13":
+		{
+			"dinoindex": 52,
+			"dinoname": "Rhyniognatha",
+			"forpillartag": "Idino_Normal",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-14":
+		{
+			"dinoindex": 177,
+			"dinoname": "Rock Drake",
+			"forpillartag": "Idino_Normal",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-15":
+		{
+			"dinoindex": 55,
+			"dinoname": "Tek Rex",
+			"forpillartag": "Idino_Normal",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-16":
+		{
+			"dinoindex": 106,
+			"dinoname": "Tek Giganotosaurus",
+			"forpillartag": "Idino_Normal",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-17":
+		{
+			"dinoindex": 24,
+			"dinoname": "Tusoteuthis",
+			"forpillartag": "Idino_Normal",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-18":
+		{
+			"dinoindex": 22,
+			"dinoname": "Yutyrannus",
+			"forpillartag": "Idino_Normal",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-19":
+		{
+			"dinoindex": 35,
+			"dinoname": "Therizinosaur",
 			"forpillartag": "Idino_Normal",
 			"allowgendar": false,
 			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
