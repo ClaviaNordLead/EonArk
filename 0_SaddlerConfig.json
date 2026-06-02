@@ -7,12 +7,28 @@
 		"descriptnameplus": "I-Dino Saddler Plus",
 		"descriptionplus": "Use for get customized Saddels for your Dino.",
 		"prevalues": [ 25, 150 ],
-		"prequality": 0,
+		"prequality": 5,
 		"gitimporturl": "https://raw.githubusercontent.com/ClaviaNordLead/EonArk/main/0_SaddlerConfig.json",
 		"gitfilenames": [
 			"0_SaddlerConfig",
 			"1_SaddlerConfig",
 			"2_SaddlerConfig"
+		]
+	},
+	"SaD-0":
+	{
+		"dinoindex": 52,
+		"dinoname": "Rhyniognatha",
+		"dinoclassref": "/Game/PrimalEarth/Dinos/Rhyniognatha/Rhynio_Character_BP.Rhynio_Character_BP_C",
+		"singlesaddels": [
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RhynioSaddle.PrimalItemArmor_RhynioSaddle_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 5,
+				"amount": 1
+			}
 		]
 	}
 }
