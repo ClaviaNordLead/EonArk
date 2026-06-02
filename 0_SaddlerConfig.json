@@ -24,7 +24,7 @@
 			{
 				"issaddlerplus": false,
 				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RhynioSaddle.PrimalItemArmor_RhynioSaddle_C",
-				"armorvalue": 25,
+				"armorvalue": 300,
 				"durability": 150,
 				"quality": 5,
 				"amount": 1
