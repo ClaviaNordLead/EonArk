@@ -123,6 +123,17 @@
 		},
 		"DS-10":
 		{
+			"dinoindex": 162,
+			"dinoname": "Managarmr",
+			"forpillartag": "Idino_Normal",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-11":
+		{
 			"dinoindex": 81,
 			"dinoname": "Mosasaurus",
 			"forpillartag": "Idino_Normal",
@@ -132,7 +143,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-11":
+		"DS-12":
 		{
 			"dinoindex": 203,
 			"dinoname": "Poison Wyvern",
@@ -143,7 +154,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-12":
+		"DS-13":
 		{
 			"dinoindex": 2,
 			"dinoname": "Rex",
@@ -154,7 +165,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-13":
+		"DS-14":
 		{
 			"dinoindex": 52,
 			"dinoname": "Rhyniognatha",
@@ -165,7 +176,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-14":
+		"DS-15":
 		{
 			"dinoindex": 177,
 			"dinoname": "Rock Drake",
@@ -176,7 +187,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-15":
+		"DS-16":
 		{
 			"dinoindex": 55,
 			"dinoname": "Tek Rex",
@@ -187,7 +198,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-16":
+		"DS-17":
 		{
 			"dinoindex": 106,
 			"dinoname": "Tek Giganotosaurus",
@@ -198,7 +209,18 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-17":
+		"DS-18":
+		{
+			"dinoindex": 35,
+			"dinoname": "Therizinosaur",
+			"forpillartag": "Idino_Normal",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-19":
 		{
 			"dinoindex": 24,
 			"dinoname": "Tusoteuthis",
@@ -209,7 +231,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-18":
+		"DS-20":
 		{
 			"dinoindex": 22,
 			"dinoname": "Yutyrannus",
@@ -218,15 +240,15 @@
 			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
 			"statbase": "",
 			"reducepointschoosen": [],
-			"bitmaskbool": 8
+			"bitmaskbool": 0
 		},
-		"DS-19":
+		"DS-21":
 		{
-			"dinoindex": 35,
-			"dinoname": "Therizinosaur",
+			"dinoindex": 164,
+			"dinoname": "Gacha",
 			"forpillartag": "Idino_Normal",
 			"allowgendar": false,
-			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0),(11, 0))",
 			"statbase": "",
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
